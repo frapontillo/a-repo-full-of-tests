@@ -1,6 +1,4 @@
-hubot-github-notify-test
+a-repo-full-of-tests
 ========================
 
-Empty repo to test notifications for mentions and assignments.
-
-Yo PR this
+Empty repo to test notifications, mentions, assignments, PRs and much more.
